@@ -11,9 +11,11 @@ apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 
 [Twitch]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
+dpi = "120-640dpi"
 
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+dpi = "120-640dpi"
 
 [TikTok]
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
